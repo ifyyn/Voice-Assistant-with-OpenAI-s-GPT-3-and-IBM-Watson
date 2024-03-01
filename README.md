@@ -1,4 +1,4 @@
-<h1 align="center">Text Sentiment Analysis using Caikit and Hugging Face</h1>
+<h1 align="center">Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson</h1>
 ------
 
 <p color="red">Mentee assignment from IBM Advance AI @ Infinite Learning Course <i>Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson</i>
